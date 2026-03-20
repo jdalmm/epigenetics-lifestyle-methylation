@@ -84,6 +84,6 @@ effects across intervention types and tissue sources for these three genes.
 João Duarte · Biology Student · ISA-ULisboa  
 duartejoao381@gmail.com
 https://www.linkedin.com/in/jo%C3%A3o-duarte-3b0ab3194/
-3. Cola isto:
+
 ```
 study_id,gene,cpg_region,intervention_type,intervention_detail,tissue,cell_type,sample_size_n,direction,effect_size,p_value,method,quality_notes,doi
