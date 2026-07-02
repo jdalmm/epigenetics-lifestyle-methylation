@@ -1,1 +1,3 @@
-study_id,gene,cpg_region,intervention_type,intervention_detail,tissue,cell_type,sample_size_n,direction,effect_size,p_value,method,quality_notes,doi
+study_id;gene;cpg_region;intervention_type;intervention_detail;tissue;cell_type;sample_size_n;direction;effect_size;p_value;method;quality_notes;doi
+Yehuda_2016_F0;FKBP5;intron7_bin3_site6;stress;Holocaust exposure (concentration camp, torture, persecution);blood;peripheral blood;40;hyper ;5,06;0,046;pyrosequencing ;Small sample (n=32 exposed). Cross-sectional. Intergenerational design — F0 and F1 show opposite directions at same site.;10.1016/j.biopsych.2015.08.005
+Yehuda_2016_F1;FKBP6;intron7_bin3_site6;stress;Intergenerational Holocaust exposure (parental trauma, no direct exposure);blood;peripheral blood;31;hypo;-4,45;0,034;pyrosequencing ;Small sample (n=22 offspring). Intergenerational — opposite direction to F0. Parental PTSD as potential confounder;10.1016/j.biopsych.2015.08.006
