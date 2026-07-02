@@ -1,0 +1,19 @@
+# Ignorar tudo
+*
+
+# Excepto as pastas do projecto
+!data/
+!data/**
+!notebooks/
+!notebooks/**
+!references/
+!references/**
+!figures/
+!figures/**
+!paper/
+!paper/**
+!README.md
+!LICENSE
+!.gitignore
+!Guia_Ferramentas_Projecto.docx
+!Projecto_Epigenetica_Roadmap.docx
