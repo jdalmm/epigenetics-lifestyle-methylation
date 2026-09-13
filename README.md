@@ -1,7 +1,7 @@
-# Epigenetic Effects of Lifestyle on Neuroplasticity Genes
+# Epigenetic Effects of Stress and Exercise on Neuroplasticity Genes
 
-**A systematic computational analysis of lifestyle-associated DNA methylation 
-changes at BDNF, NR3C1, and FKBP5 in humans**
+**A systematic computational analysis of stress- and exercise-associated DNA 
+methylation changes at BDNF, NR3C1, and FKBP5 in humans**
 
 *Independent research project · João Duarte · ISA-ULisboa · 2026*
 
@@ -15,7 +15,8 @@ the tissue type analysed (blood, saliva, brain) moderate the results?
 
 This systematic analysis addresses a gap in the literature: no publicly 
 available curated dataset compares directional consistency of epigenetic 
-effects across intervention types and tissue sources for these three genes.
+effects across stress and exercise interventions and tissue sources for 
+these three genes.
 
 ---
 
@@ -33,7 +34,16 @@ effects across intervention types and tissue sources for these three genes.
 
 - **Chronic stress & trauma** — including early-life adversity and PTSD-related studies
 - **Physical exercise** — aerobic training and acute exercise protocols
-- **Diet & nutrition** — omega-3, caloric restriction, and dietary pattern studies
+
+> **Scope note — why diet was excluded:** Diet and nutrition were considered 
+> during protocol design but dropped from the final scope. Dietary exposures 
+> vary too widely in composition and quality to be categorised consistently 
+> across studies, which would have fragmented an already limited pool of 
+> gene × tissue × intervention combinations. Stress and exercise, despite 
+> also being heterogeneous, are more reliably gradable and converge on 
+> shared hormonal pathways (HPA axis), making them better suited to a 
+> directional-consistency analysis. This decision is documented in the 
+> Methods section of the manuscript.
 
 ---
 
@@ -63,10 +73,21 @@ effects across intervention types and tissue sources for these three genes.
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| Phase 1 | Scientific foundations & literature review | 🟡 In progress |
-| Phase 2 | Systematic data collection | ⬜ Upcoming |
-| Phase 3 | Computational analysis | ⬜ Upcoming |
+| Phase 1 | Scientific foundations & literature review | ✅ Complete |
+| Phase 2 | Systematic data collection | ✅ Complete — 30 studies |
+| Phase 3 | Computational analysis | 🟡 In progress |
 | Phase 4 | Writing & publication | ⬜ Upcoming |
+
+**Dataset at a glance** (30 unique studies, 55 stratified entries):
+
+| Gene | Entries | | Intervention | Entries |
+|------|---------|---|---------------|---------|
+| FKBP5 | 23 | | Stress / trauma | 38 |
+| BDNF | 18 | | Exercise | 17 |
+| NR3C1 | 14 | | | |
+
+Tissue sources: blood (34), saliva (10), other (7), placental tissue (2), 
+buccal (1), brain (1).
 
 ---
 
