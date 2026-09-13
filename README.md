@@ -78,15 +78,15 @@ these three genes.
 | Phase 3 | Computational analysis | 🟡 In progress |
 | Phase 4 | Writing & publication | ⬜ Upcoming |
 
-**Dataset at a glance** (30 unique studies, 55 stratified entries):
+**Dataset at a glance** (30 unique studies, 63 stratified entries):
 
 | Gene | Entries | | Intervention | Entries |
 |------|---------|---|---------------|---------|
-| FKBP5 | 23 | | Stress / trauma | 38 |
-| BDNF | 18 | | Exercise | 17 |
-| NR3C1 | 14 | | | |
+| BDNF | 24 | | Stress / trauma | 44 |
+| FKBP5 | 23 | | Exercise | 19 |
+| NR3C1 | 16 | | | |
 
-Tissue sources: blood (34), saliva (10), other (7), placental tissue (2), 
+Tissue sources: blood (39), saliva (10), other (10), placental tissue (2), 
 buccal (1), brain (1).
 
 ---
